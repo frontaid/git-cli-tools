@@ -22,6 +22,8 @@ Feel free to contribute.
 ## Undo/Fixup
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs.
 * [git revise](https://github.com/mystor/git-revise) - Tool for doing efficient in-memory commit rebases & fixups.
+* [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
+* [git-autofixup](https://github.com/torbiak/git-autofixup/) - Create fixup commits for topic branches.
 * [git-fixup](https://github.com/keis/git-fixup) - Fighting the copy-paste element of your rebase workflow.
 * [gitjk](https://github.com/mapmeld/gitjk) - Undo what you just did in git.
 
