@@ -44,6 +44,7 @@ Feel free to contribute.
 * [Git extras](https://github.com/tj/git-extras) - Repo summary, repl, changelog population, author commit percentages and more.
 * [Git plus](https://github.com/tkrajina/git-plus) - Set of git utilities.
 * [Git Town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support.
+* [git trim](https://github.com/jasonmccreary/git-trim) - Quickly remove merged, pruned, untracked, or stale branches within a repository.
 * [git-fresh](https://github.com/imsky/git-fresh) - Keep your Git repo fresh.
 * [git-open](https://github.com/paulirish/git-open) - Open the repo website (GitHub, GitLab, Bitbucket) in your browser.
 * [git-recall](https://github.com/Fakerr/git-recall) - Interactive way to peruse your git history from the terminal.
