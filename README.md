@@ -18,6 +18,7 @@ Feel free to contribute.
 ## Diff
 * [delta](https://github.com/dandavison/delta) - Viewer for git and diff output.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Strives to make your diffs human readable instead of machine readable.
+* [Difftastic](https://github.com/Wilfred/difftastic) - Experimental diff tool that compares files based on their syntax.
 
 ## Undo/Fixup
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs.
