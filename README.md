@@ -73,6 +73,7 @@ Feel free to contribute.
 * [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 
 ## GitHub
+* [GitHub CLI](https://github.com/cli/cli/) - GitHub’s official command line tool.
 * [gitsome](https://github.com/donnemartin/gitsome) - Supercharged GitHub command line interface (CLI). <!-- intentionally duplicated as it is two tools in one package -->
 * [hub](https://github.com/github/hub) - Command-line tool that makes git easier to use with GitHub.
 
