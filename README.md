@@ -27,6 +27,7 @@ Feel free to contribute.
 * [git-autofixup](https://github.com/torbiak/git-autofixup/) - Create fixup commits for topic branches.
 * [git-fixup](https://github.com/keis/git-fixup) - Fighting the copy-paste element of your rebase workflow.
 * [gitjk](https://github.com/mapmeld/gitjk) - Undo what you just did in git.
+* [ugit](https://github.com/Bhupesh-V/ugit) - Helps undo git commands.
 
 ## Merge/Rebase
 * [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
