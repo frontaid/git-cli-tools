@@ -72,6 +72,7 @@ Feel free to contribute.
 ## Git Flow
 * [git-flow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 * [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+* [hgit](https://github.com/metaory/hgit-cli) - Streamline and Simplify complex git processes
 
 ## GitHub
 * [GitHub CLI](https://github.com/cli/cli/) - GitHub’s official command line tool.
