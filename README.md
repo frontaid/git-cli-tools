@@ -72,7 +72,7 @@ Feel free to contribute.
 ## Git Flow
 * [git-flow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 * [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-* [mxflow-cli](https://github.com/metaory/mxflow-cli) - Streamline and Simplify complex git processes (a local cicd)
+* [mxflow-cli](https://github.com/metaory/mxflow-cli) - :zap: A Friendly, General purpose CLI task runner :rocket:
 
 ## GitHub
 * [GitHub CLI](https://github.com/cli/cli/) - GitHub’s official command line tool.
