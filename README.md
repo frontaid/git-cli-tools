@@ -89,4 +89,5 @@ Feel free to contribute.
 * [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 * [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management.
 * [git-secret](https://github.com/sobolevn/git-secret) - Bash-tool to store your private data inside a git repository.
+* [git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 * [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you (or someone else in your team) did on the last working day.
