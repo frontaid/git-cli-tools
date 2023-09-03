@@ -42,6 +42,10 @@ Feel free to contribute.
 * [overcommit](https://github.com/sds/overcommit) - Fully configurable and extendable Git hook manager.
 * [pre-commit](https://github.com/pre-commit/pre-commit) - Framework for managing and maintaining multi-language pre-commit hooks.
 
+## Project Management
+* [git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos.
+* [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges.
+
 ## Utilities
 * [Git extras](https://github.com/tj/git-extras) - Repo summary, repl, changelog population, author commit percentages and more.
 * [Git plus](https://github.com/tkrajina/git-plus) - Set of git utilities.
