@@ -95,3 +95,4 @@ Feel free to contribute.
 * [git-secret](https://github.com/sobolevn/git-secret) - Bash-tool to store your private data inside a git repository.
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 * [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you (or someone else in your team) did on the last working day.
+* [gitbrute](https://github.com/bradfitz/gitbrute) - Force a pair of author+committer timestamps such that the resulting git commit has your desired prefix.
