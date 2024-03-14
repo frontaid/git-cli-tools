@@ -1,5 +1,5 @@
 # Git CLI Tools
-Collection of CLI tools for Git.  
+Collection of CLI tools for Git.
 Feel free to contribute.
 
 ## Clients
@@ -63,6 +63,7 @@ Feel free to contribute.
 * [Gita](https://github.com/nosarthur/gita) - Command-line tool to manage multiple git repos.
 * [gitbatch](https://github.com/isacikgoz/gitbatch) - Manage your git repositories in one place.
 * [gitup](https://github.com/earwig/git-repo-updater) - Console script that allows you to easily update multiple git repositories at once.
+* [GitKraken CLI](https://github.com/gitkraken/gk-cli) - Perform git actions across groups of repos, and view their PRs and issues list
 * [mgitstatus](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos.
 * [mu-repo](https://github.com/fabioz/mu-repo/) - Tool to help in dealing with multiple git repositories.
 * [vcstool](https://github.com/dirk-thomas/vcstool) - Command line tool designed to make working with multiple repositories easier.
