@@ -6,6 +6,7 @@ Feel free to contribute.
 * [forgit](https://github.com/wfxr/forgit) - Utility tool powered by fzf for using git interactively.
 * [fugitive.vim](https://github.com/tpope/vim-fugitive) - Git plugin for *Vim*.
 * [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/workdir explorer for git.
+* [Gitu](https://github.com/altsem/gitu) - TUI Git client inspired by Magit.
 * [GitUI](https://github.com/Extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
 * [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 * [Magit](https://github.com/magit/magit) - Git porcelain inside *Emacs*.
