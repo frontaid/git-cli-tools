@@ -3,6 +3,7 @@ Collection of CLI tools for Git.
 Feel free to contribute.
 
 ## Clients
+* [forgit](https://github.com/wfxr/forgit) - Utility tool powered by fzf for using git interactively.
 * [fugitive.vim](https://github.com/tpope/vim-fugitive) - Git plugin for *Vim*.
 * [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/workdir explorer for git.
 * [GitUI](https://github.com/Extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
