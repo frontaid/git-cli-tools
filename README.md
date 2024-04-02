@@ -1,5 +1,5 @@
 # Git CLI Tools
-Collection of CLI tools for Git.  
+Collection of open source CLI tools for Git.  
 Feel free to contribute.
 
 ## Clients
