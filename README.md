@@ -53,6 +53,7 @@ Feel free to contribute.
 * [Git plus](https://github.com/tkrajina/git-plus) - Set of git utilities.
 * [Git Town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support.
 * [git trim](https://github.com/jasonmccreary/git-trim) - Quickly remove merged, pruned, untracked, or stale branches within a repository.
+* [git-booster-cli](https://github.com/akgondber/git-booster-cli) - Improve your git workflow with customizable and runnable blocks
 * [git-fresh](https://github.com/imsky/git-fresh) - Keep your Git repo fresh.
 * [git-friendly](https://github.com/git-friendly/git-friendly) - Collection of shell scripts for making pulling, pushing, branching, merging, and stashing with Git fast and painless.
 * [git-open](https://github.com/paulirish/git-open) - Open the repo website (GitHub, GitLab, Bitbucket) in your browser.
