@@ -20,6 +20,7 @@ Feel free to contribute.
 ## Diff
 * [delta](https://github.com/dandavison/delta) - Viewer for git and diff output.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Strives to make your diffs human readable instead of machine readable.
+* [diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool.
 * [Difftastic](https://github.com/Wilfred/difftastic) - Experimental diff tool that compares files based on their syntax.
 
 ## Undo/Fixup
