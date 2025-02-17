@@ -42,6 +42,7 @@ Feel free to contribute.
 * [Git Hound](https://github.com/ezekg/git-hound) - Git plugin that prevents sensitive data from being committed.
 * [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories.
 * [husky](https://github.com/typicode/husky) - Modern native Git hooks made easy.
+* [Lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 * [overcommit](https://github.com/sds/overcommit) - Fully configurable and extendable Git hook manager.
 * [pre-commit](https://github.com/pre-commit/pre-commit) - Framework for managing and maintaining multi-language pre-commit hooks.
 
