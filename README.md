@@ -37,6 +37,7 @@ Feel free to contribute.
 * [git when-merged](https://github.com/mhagger/git-when-merged) - Determine when a particular commit was merged into a git branch.
 * [git-fiddle](https://github.com/felixSchl/git-fiddle) - Edit commit messages, authors, and timestamps during git-rebase.
 * [git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge and rebase for Git.
+* [Mergiraf](https://codeberg.org/mergiraf/mergiraf) - Syntax-aware git merge driver for a growing collection of programming languages and file formats.
 
 ## Hooks
 * [Git Hound](https://github.com/ezekg/git-hound) - Git plugin that prevents sensitive data from being committed.
