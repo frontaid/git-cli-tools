@@ -8,6 +8,7 @@ Feel free to contribute.
 * [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/workdir explorer for git.
 * [Gitu](https://github.com/altsem/gitu) - TUI Git client inspired by Magit.
 * [GitUI](https://github.com/Extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
+* [Jujutsu](https://github.com/jj-vcs/jj) - Git-compatible VCS that is both simple and powerful.
 * [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 * [Magit](https://github.com/magit/magit) - Git porcelain inside *Emacs*.
 * [Neogit](https://github.com/TimUntersberger/neogit) - Magit for *neovim*.
