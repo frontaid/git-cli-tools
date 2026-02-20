@@ -51,6 +51,7 @@ Feel free to contribute.
 ## Project Management
 * [git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos.
 * [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges.
+* [git-native-issue](https://github.com/remenoscodes/git-native-issue): Distributed issue tracking embedded in Git, using native objects and refs.
 
 ## Utilities
 * [Git extras](https://github.com/tj/git-extras) - Repo summary, repl, changelog population, author commit percentages and more.
